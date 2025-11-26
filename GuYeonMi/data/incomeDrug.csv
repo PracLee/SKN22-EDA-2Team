@@ -1,4 +1,4 @@
-Year,PesonalIncome,PriceIndex,Drugs,Psychotropic,Hemp,TotalDrugs,DrugRegulation,DrugSystemUpdate,Drug_law_revision,UnemploymentRate
+Year,1인당실질소득,물가,마약류,향정류,대마,총마약사건수,마약규제지수,마약관련행정시스템변화,마약관련법개정,실업률
 2010,3144,86.4,1124,6771,1837,9732,1,0,0,3.7
 2011,3173,89.9,759,7226,1189,9174,1,0,0,3.4
 2012,3252,91.8,582,7631,1042,9255,2,1,1,3.2
